@@ -1,10 +1,10 @@
 # fund-me
 
-This repo contains a Fund Me smart contract coded in Solidity
+This repo contains a Fund Me smart contract coded in Solidity. It allows a user to send funds in Ethereum via a fund me function and the same funds can be colected into other account via the withdraw function.
+It uses AggregatorV3Interface, a Chainlink Data feeds feature to get the live market conversion rate of ETH in USD. 
 
-#### Here's what the code on Remix IDE look like:
-(C:\Users\HP\Downloads\2024-07-13 18-18-52 (online-video-cutter.com).mp4)
 
+#### Here's a quick demonstration of above mentioned functions on Remix IDE :
 
 
 ## Getting Started
