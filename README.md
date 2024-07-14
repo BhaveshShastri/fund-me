@@ -6,7 +6,7 @@ It uses AggregatorV3Interface, a Chainlink Data feeds feature to get the live ma
 
 #### Here's a quick demonstration of above mentioned functions on Remix IDE :
 
-[!](https://github.com/BhaveshShastri/fund-me/tree/main/media/.gitattributes)
+[![Video Title](https://img.youtube.com/vi/5DxSlQwwkG0/0.jpg)](https://www.youtube.com/watch?v=5DxSlQwwkG0)
 
 
 ## Getting Started
